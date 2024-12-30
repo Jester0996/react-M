@@ -1,0 +1,22 @@
+.header {
+ padding: 24px 0;
+ border-bottom: 1px solid #ebebeb;
+}
+
+.container{
+  width: 100%;
+  max-width: 1310px;
+
+  margin: 0 auto;
+  padding: 15px;
+  
+}
+
+.header__row{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+}
+
+
